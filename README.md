@@ -118,13 +118,13 @@ Response
 
 ![GET Method Created](screenshots/get-method-created.png)
 
-## 7. API URL Generated
-
-![API URL Generated](screenshots/api-url-generated.png)
-
-## 8. API Deployed Stage Created
+## 7. API Deployed Stage Created
 
 ![API Deployed](screenshots/api-deployed-stage-created.png)
+
+## 8. API URL Generated
+
+![API URL Generated](screenshots/api-url-generated.png)
 
 ## 9. Missing Authentication Token Error
 
@@ -149,6 +149,7 @@ Response
 ## 14. Project Completed
 
 ![Project Completed](screenshots/project.completed.png)
+
 
 ---
 
